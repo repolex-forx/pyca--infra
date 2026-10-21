@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyca/infra/commit/137aa2e2b9a7d4d9ec6d4cb755ddfcc15c2d2a9d",
       "git:hexsha": "137aa2e2b9a7d4d9ec6d4cb755ddfcc15c2d2a9d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
